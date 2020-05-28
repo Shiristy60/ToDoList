@@ -69,6 +69,10 @@ li:hover span{
     float:right;
 }
 
+.fa .fa-trash{
+    overflow:hidden;
+}
+
 li span{
     background: #e74c3c;
     height: 100%;
@@ -76,7 +80,7 @@ li span{
     text-align:center;
     color:white;
     width:0 ;
-    display:inline-block;
+    display: inline-block;
     transition:0.2s linear;
     opacity:0;
 }
